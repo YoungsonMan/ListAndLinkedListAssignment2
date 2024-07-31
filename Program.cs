@@ -76,31 +76,6 @@
 
             }
 
-
-
-          //  index = ((temp + k) % list.Count);
-          //  list.Remove(index);
-          //  if (list.Count == 1)
-          //  {
-          //      Console.WriteLine(list[0]);
-          //      return;
-          //  }
-          //  
-          //  foreach (int element in list)
-          //  {
-          //      Console.Write(element + " ");
-          //  }
-          //
-          //
-          //  Console.WriteLine();
-          //
-          //
-          //  foreach (int element in list)
-          //  {
-          //      Console.Write(element + " ");
-          //  }
-
-
         }
     }
 }
